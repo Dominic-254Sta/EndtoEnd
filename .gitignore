@@ -1,5 +1,4 @@
 # Virtual environment
-.artifacts
 venv/
 .env/
 
