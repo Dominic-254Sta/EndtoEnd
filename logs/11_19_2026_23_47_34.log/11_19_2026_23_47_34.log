@@ -1,0 +1,9 @@
+[2026-11-19 23:47:39,647] 25 - root - INFO - Entered the data ingestion method or component
+[2026-11-19 23:47:39,662] 28 - root - INFO - Read the dataset as dataframe
+[2026-11-19 23:47:39,675] 34 - root - INFO - Train test split initiated
+[2026-11-19 23:47:39,689] 41 - root - INFO - Ingestion of the data is completed
+[2026-11-19 23:47:39,731] 77 - root - INFO - Read train and test data completed
+[2026-11-19 23:47:39,731] 79 - root - INFO - Obtaining preprocessing object
+[2026-11-19 23:47:39,731] 54 - root - INFO - Numerical columns: ['writing_score', 'reading_score']
+[2026-11-19 23:47:39,731] 56 - root - INFO - Categorical column: {categorical_columns}
+[2026-11-19 23:47:39,732] 92 - root - INFO - Applying preprocessing object on training dataframe and testing dataframe.
