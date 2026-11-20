@@ -1,0 +1,3 @@
+[2026-11-20 15:11:33,437] 97 - werkzeug - WARNING -  * Debugger is active!
+[2026-11-20 15:11:33,449] 97 - werkzeug - INFO -  * Debugger PIN: 177-154-005
+[2026-11-20 15:14:05,627] 97 - werkzeug - INFO -  * Detected change in 'D:\\Data Science Krish Naik\\EndtoEnd\\app.py', reloading
